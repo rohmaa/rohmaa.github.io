@@ -1,0 +1,22 @@
+h1{
+   color: white;
+font-size: 300%;
+
+}
+
+h3{
+   color: yellow;
+}
+body{ 
+   background-color:rgb(255, 182, 193);
+}
+
+p{
+border: 10px solid white;
+padding: 30px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+
+
